@@ -150,3 +150,5 @@ The University of North Carolina at Chapel Hill facilitates the implementation o
 All accommodations are coordinated through the Accessibility Resources and Service Office. See the ARS Website for contact information: https://ars.unc.edu or email ars@unc.edu.
 
 Relevant policy documents as they relation to registration and accommodations determinations and the student registration form are available on the ARS website under the About ARS tab.	
+	
+
