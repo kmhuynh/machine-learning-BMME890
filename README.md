@@ -21,10 +21,11 @@ Assistant Professor, Biomedical Engineering Department
 1. App to answer questions during the lecture. [Poll everywhere](https://poll.unc.edu/)
 2. [Course repository](https://github.com/agiovann/machine-learning-BMME890/)
 3. [Sakai](https://sakai.unc.edu) 
-3. [Anaconda](https://www.anaconda.com/distribution/) Python distribution
-4. Prepare slides in Jupyter Notebooks with [RISE](https://github.com/damianavila/RISE)
-5. [scikit-learn](https://scikit-learn.org)
-5. [kaggle](https://www.kaggle.com/competitions) competitions
+4. [Slack](https://bmme890.slack.com)
+5. [Anaconda](https://www.anaconda.com/distribution/) Python distribution
+6. Prepare slides in Jupyter Notebooks with [RISE](https://github.com/damianavila/RISE)
+7. [scikit-learn](https://scikit-learn.org)
+8. [kaggle](https://www.kaggle.com/competitions) competitions
 
 ### Learning objectives 
 By the end of the course students will be able to:
@@ -44,29 +45,19 @@ By the end of the course students will be able to:
 3. Linear algebra (suggested)
 
  
-### Homeworks
+### Homework & Project (total 200 points)
 
-* **HW1. Setting up (20 pts)**
-* **HW2a. Getting started with Jupyter Notebooks (5 pts)**
-	* create jupyter notebook 
-	* pandas for exploratory visualization of datasets 
-* **HW2b. Recap algebra and statistics (15 pts)**  
-	* algebra and statistics recap exercises in jupyter notebook
-* **HW3. Project (20  pts)**
-	* identify a project from your laboratory/your research interest 
-	* Write a notebook with 500 words description (in **markdown language** directly in the notebook) of the dataset, and provide some visualization and exploratory analysis
-	* present to the class
-* **HW 4. Regression Problem (20 pts)** 
-	* Kaggle competition #2. [house prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) **
-* **HW 5. Classification Problem (20 pts)** 
-	* Kaggle competition #1.  [titanic](https://www.kaggle.com/c/titanic) **
-* **Optional. up to 20 points**
+* **HW1**. Setting up (20 pts)
+* **HW2a**. Getting started with Jupyter Notebooks  and visualization(5 pts)
+* **HW2b**. Recap algebra and statistics (15 pts) 
+* **HW3**. Course project description and presentation (20  pts)
+* **HW4**. *Kaggle Competition*. Regression Problem (20 pts) 
+* **HW5**. *Kaggle Competition*. Classification Problem (20 pts)
+* **Optional. Up to 20 points**
     *prepare a 30 minutes lecture to explain to the class an argument (one can choose among *support vector machines, clustering, gaussian mixtures, PCA and ICA*). One needs at least 85 points by week 7. 
-* **HW 6. Spike sorting (20  pts)**
-	* Create a prototype of a spike sorting algorithm. Data can be downloaded from [spike sorting](https://github.com/flatironinstitute/mountainsort_examples)
-* **HW 7. Convolutional Networks (20 pts)**
-	* [digit recognition](https://www.kaggle.com/c/digit-recognizer) or other decided later on within the class
-* **HW 8. Project 60 pts)**
+* **HW6**. Unsupervised Learning and Clustering. Spike sorting (20 pts)
+* **HW7**. Convolutional Networks (20 pts)
+* **HW8**. Course project presentation, 15 minutes. (60 pts)**
 
 ### Class quizzes (total 50 points)
 
@@ -77,7 +68,7 @@ By the end of the course students will be able to:
 
 The final grade will be computed as follows
 
-* 20% classroon quizzes: during classes, will cover the material that is explained 
+* 20% classroom quizzes 
 * 48% homework assignments
 * 32% project
 
